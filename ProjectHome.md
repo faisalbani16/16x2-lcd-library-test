@@ -1,0 +1,1 @@
+this 16x2 lcd library is builted for STM32F401RE MCU. But you can use it for any MCU that you want with a little bit modification
